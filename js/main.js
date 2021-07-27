@@ -39,3 +39,6 @@ console.log(nUtente)
 // Al termine della partita il software deve comunicare il punteggio, cioè il numero di volte che l’utente ha inserito un numero consentito.
 var punteggio = nUtente.length;
 console.log('il punteggio è ' + punteggio);
+
+
+

@@ -48,3 +48,7 @@ function(e) {
 }
 )
 creaCampo(100);
+
+// Ciao alessio, in realtà non ho fatto codice ma ho ripassato quello che bbiamo fatto fino ad ora.
+// non ti volevo abbandonare cosi ti faccio questo push completamente inutile.
+// Buona giornata 
